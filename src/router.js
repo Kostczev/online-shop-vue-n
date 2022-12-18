@@ -10,12 +10,12 @@ export default createRouter({
          redirect: { name: 'catalog' }
       },
       { 
-         path: '/online-shop-vue/', 
+         path: '/online-shop-vue-n/', 
          component: vCatalog, 
          name: 'catalog' 
       },
       { 
-         path: '/online-shop-vue/cart', 
+         path: '/online-shop-vue-n/cart', 
          component: vCart, 
          name: 'cart', 
       }
