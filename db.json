@@ -1,0 +1,164 @@
+{
+   "books": [
+      {
+         "image": "боги и чудовища.jpg",
+         "name": "Боги и чудовища",
+         "author": "Махёрин Ш.",
+         "price": 865,
+         "available": true,
+         "tips": "New"
+      },
+      {
+         "image": "Гойда.jpg",
+         "name": "Гойда",
+         "author": "Гельб Дж.",
+         "price": 714,
+         "available": true,
+         "tips": "New"
+      },
+      {
+         "image": "Путь домохозяина. Том 1.jpg",
+         "name": "Путь домохозяина. Том 1",
+         "author": "Оно К.",
+         "price": 599,
+         "available": true,
+         "tips": "New"
+      },
+      {
+         "image": "Мечты сбываются всегда.jpg",
+         "name": "Мечты сбываются всегда",
+         "author": "Блиновская Е.",
+         "price": 1369,
+         "available": true,
+         "tips": "New"
+      },
+      {
+         "image": "Невеста туманного дракона.jpg",
+         "name": "Невеста туманного дракона",
+         "author": "Боталова М.Н.",
+         "price": 443,
+         "available": true,
+         "tips": "New"
+      },
+      {
+         "image": "Камень грез.jpg",
+         "name": "Камень грез",
+         "author": "Черри К.",
+         "price": 985,
+         "available": true,
+         "tips": "New"
+      },
+      {
+         "image": "Тэянг.jpg",
+         "name": "Тэянг",
+         "author": "Лин К.",
+         "price": 649,
+         "available": true,
+         "tips": "Top"
+      },
+      {
+         "image": "Золушка.jpg",
+         "name": "Золушка",
+         "author": "Мейер М.",
+         "price": 430,
+         "available": true,
+         "tips": "Top"
+      },
+      {
+         "image": "Вяжи.jpg",
+         "name": "Вяжи!",
+         "author": "Кроутер Л.",
+         "price": 897,
+         "available": true,
+         "tips": "Top"
+      },
+      {
+         "image": "Когда порвется нить.jpg",
+         "name": "Когда порвется нить",
+         "author": "Эрлик Н.",
+         "price": 763,
+         "available": true,
+         "tips": "Top"
+      },
+      {
+         "image": "Общество сороки.jpg",
+         "name": "Общество сороки",
+         "author": "Сагг З.",
+         "price": 566,
+         "available": true,
+         "tips": "Top"
+      },
+      {
+         "image": "Высота одиночества.jpg",
+         "name": "Высота одиночества",
+         "author": "Минаева Т.Ю.",
+         "price": 484,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Утренняя книга.jpg",
+         "name": "Утренняя книга",
+         "author": "Куприн О.",
+         "price": 1280,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Я бы поправил.jpg",
+         "name": "Я бы поправил",
+         "author": "Горошеев И.В.",
+         "price": 525,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Свидетель мертвых.jpg",
+         "name": "Свидетель мертвых",
+         "author": "Эддисон К.",
+         "price": 631,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Атака чудовищного хомяка.jpg",
+         "name": "Атака чудовищного хомяка",
+         "author": "Стайн Р.Л.",
+         "price": 320,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Шумерские мифы.jpg",
+         "name": "Шумерские мифы",
+         "author": "Чмеленко Ю.",
+         "price": 859,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Уроки химии.jpg",
+         "name": "Уроки химии",
+         "author": "Гармус Б.",
+         "price": 586,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Милый дом Чи. Книга 11.jpg",
+         "name": "Милый дом Чи. Книга 11",
+         "author": "Каната К.",
+         "price": 516,
+         "available": true,
+         "tips": "Coming"
+      },
+      {
+         "image": "Бегущий по лезвию.jpg",
+         "name": "Бегущий по лезвию",
+         "author": "Джонсон М.",
+         "price": 2015,
+         "available": true,
+         "tips": "Coming"
+      }
+   ]
+}
