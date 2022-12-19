@@ -45,16 +45,21 @@
 //@import '@/assets/styles/styles.scss';
    .v-catalog-item {
       position: relative;
-      flex-basis: 25%;
+      width: 190px;
+      height: 290px;
       box-shadow: 0 0 8px 0 #e0e0e0;
       padding: 16px;
       margin: 16px;
+      display: flex;
+      flex-direction: column;
       &__img {
          height: 200px;
+         object-fit: contain;
       }
       &__name {
          text-align: justify;
          margin-top: 10px;
+         flex: 1 0 auto;
       }
       &__author {
          text-align: justify;
