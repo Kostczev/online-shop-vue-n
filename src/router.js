@@ -1,6 +1,7 @@
 import { createRouter, createWebHistory } from 'vue-router';
 import vCatalog from '@/components/catalog/v-catalog.vue';
 import vCart from '@/components/cart/v-cart.vue';
+import vPacifier from '@/components/v-pacifier.vue';
 
 export default createRouter({
    history: createWebHistory(),
@@ -18,6 +19,11 @@ export default createRouter({
          path: '/online-shop-vue-n/cart', 
          component: vCart, 
          name: 'cart', 
+      },
+      { 
+         path: '/online-shop-vue-n/pacifier', 
+         component: vPacifier, 
+         name: 'pacifier', 
       }
    ]
 })

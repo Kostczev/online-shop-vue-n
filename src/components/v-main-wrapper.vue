@@ -2,18 +2,18 @@
    <div class="v-main-wrapper">
       <header class="v-main-wrapper__header">
          <div class="v-main-wrapper__header-content container">
-            <div class="v-main-wrapper__header-item">
+            <router-link :to="{name: 'pacifier'}" class="v-main-wrapper__header-item">
                <img src="@/assets/icons/home.svg" alt="">
-            </div>
-            <div class="v-main-wrapper__header-item">
+            </router-link>
+            <router-link :to="{name: 'pacifier'}" class="v-main-wrapper__header-item">
                ПРЕДЗАКАЗ
-            </div>
+            </router-link>
             <router-link :to="{name: 'catalog'}" class="v-main-wrapper__header-item">
                КНИГИ
             </router-link>
-            <div class="v-main-wrapper__header-item">
+            <router-link :to="{name: 'pacifier'}" class="v-main-wrapper__header-item">
                АКЦИИ
-            </div>
+            </router-link>
             <router-link :to="{name: 'cart'}" class="v-main-wrapper__header-item">
                <img src="@/assets/icons/cart.svg" alt="">
                <div class="v-main-wrapper__cart-quantity cart-text">{{CART.length}}</div>
@@ -73,6 +73,7 @@ export default {
          color: #000;
          cursor: pointer;
          user-select: none;
+         text-decoration: none;
          & img {
             padding: 3px 10px;
             height: 30px;

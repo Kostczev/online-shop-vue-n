@@ -91,7 +91,7 @@
 <style lang="scss">
    .visible-on-the-pc {
       @media (max-width: 700px) {
-      display: none;
+         display: none;
       }
    }
 

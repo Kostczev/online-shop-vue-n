@@ -56,6 +56,16 @@
          height: 200px;
          object-fit: contain;
       }
+
+      @media (max-width: 700px) {
+         width: 170px;
+         height: 270px;
+         &__img {
+            height: 180px;
+            object-fit: contain;
+         }
+      }
+
       &__name {
          text-align: justify;
          margin-top: 10px;
